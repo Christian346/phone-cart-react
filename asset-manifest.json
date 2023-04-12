@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/phone-cart-react/static/css/main.8db4b5e8.chunk.css",
-    "main.js": "/phone-cart-react/static/js/main.199f7938.chunk.js",
-    "main.js.map": "/phone-cart-react/static/js/main.199f7938.chunk.js.map",
+    "main.js": "/phone-cart-react/static/js/main.4b9fdbda.chunk.js",
+    "main.js.map": "/phone-cart-react/static/js/main.4b9fdbda.chunk.js.map",
     "runtime-main.js": "/phone-cart-react/static/js/runtime-main.a5bb3f27.js",
     "runtime-main.js.map": "/phone-cart-react/static/js/runtime-main.a5bb3f27.js.map",
     "static/js/2.4904b4fd.chunk.js": "/phone-cart-react/static/js/2.4904b4fd.chunk.js",
     "static/js/2.4904b4fd.chunk.js.map": "/phone-cart-react/static/js/2.4904b4fd.chunk.js.map",
     "index.html": "/phone-cart-react/index.html",
-    "precache-manifest.4b8b5d21a0e4cf6972b6f373a3285407.js": "/phone-cart-react/precache-manifest.4b8b5d21a0e4cf6972b6f373a3285407.js",
+    "precache-manifest.c648b2382a0e4645b0b08f728caa7286.js": "/phone-cart-react/precache-manifest.c648b2382a0e4645b0b08f728caa7286.js",
     "service-worker.js": "/phone-cart-react/service-worker.js",
     "static/css/main.8db4b5e8.chunk.css.map": "/phone-cart-react/static/css/main.8db4b5e8.chunk.css.map",
     "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/phone-cart-react/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a5bb3f27.js",
     "static/js/2.4904b4fd.chunk.js",
     "static/css/main.8db4b5e8.chunk.css",
-    "static/js/main.199f7938.chunk.js"
+    "static/js/main.4b9fdbda.chunk.js"
   ]
 }
