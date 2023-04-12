@@ -5,6 +5,11 @@ import { useGlobalContext } from './context'
 const CartContainer = () => {
   const { cart , total , clearCart} = useGlobalContext()
 
+  const formattedTotal =total.toLocaleString("en-US", {
+    style: "currency",
+    currency: "USD"
+  });
+
   if (cart.length === 0) {
     return (
       <section className='cart'>
@@ -33,7 +38,7 @@ const CartContainer = () => {
         <hr />
         <div className='cart-total'>
           <h4>
-            total <span>{total} $</span>
+            total <span>$ {formattedTotal} </span>
           </h4>
         </div>
         <button
